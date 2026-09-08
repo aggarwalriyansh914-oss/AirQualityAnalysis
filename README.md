@@ -2,6 +2,8 @@ Air Quality Analysis – EDA
 
 A Minor Project (CA1) based on Exploratory Data Analysis of Air Quality Data in India.
 
+Dataset Source: https://www.data.gov.in/
+
 Analytical Question
 
 How do average pollutant levels vary across different pollutants and states, and which pollutants and locations show relatively higher pollution levels?
